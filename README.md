@@ -51,7 +51,7 @@ Apache Spark on Windows requires `winutils.exe` for certain file system operatio
 2. Navigate to the root of the project (where `build.sbt` is located).
 
 ```bash
-cd path\to\Quantexa_Assn_Zakuan_Nafis
+cd path\to\Flight-Analysis
 sbt run
 ```
 
