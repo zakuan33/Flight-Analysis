@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes flight data using Apache Spark in Scala,written in IntelliJ IDEA Community. It answers questions based on a flight dataset and writes the output CSV files to a `results/` directory. Questions :
+This project analyzes flight data using Apache Spark in Scala,written in IntelliJ IDEA Community. It answers questions based on a flight dataset from `data/` directory and writes the output CSV files to a `results/` directory. Questions :
 
 1. Find the total number of flights for each month
 
